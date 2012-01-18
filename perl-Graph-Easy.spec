@@ -8,12 +8,12 @@
 Summary:	Graph::Easy - Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
 #Summary(pl.UTF-8):	
 Name:		perl-Graph-Easy
-Version:	0.64
+Version:	0.71
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Graph/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ea6bb574f6055c351382e26bf570e21d
+# Source0-md5:	e0ff999694110fda648d8b19a2da53df
 URL:		http://search.cpan.org/dist/Graph-Easy/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
